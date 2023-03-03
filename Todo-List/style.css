@@ -46,6 +46,7 @@ body {
     background-color: #252525;
     border: 1px solid #ccc;
     transition: all 0.3s ease-in;
+    color: white;
 }
 
 .container-input input:focus {
